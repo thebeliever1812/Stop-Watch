@@ -60,7 +60,7 @@ function App() {
 			<div className="stopWatch-container">
 				<div className="stopWatch">
 					<div className="stopWatch-count">
-						<audio ref={audioRef} src="/watch-ticking.mp3" />
+						<audio ref={audioRef} src="./watch-ticking.mp3" />
 						<div className="hours">{String(hours).padStart(2, "0")}</div>
 						<div>:</div>
 						<div className="minutes">
