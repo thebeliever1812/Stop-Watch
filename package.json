@@ -2,7 +2,7 @@
   "name": "practice",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/thebeliever1812/Stop-Watch.git",
+  "homepage": "https://thebeliever1812.github.io/Stop-Watch",
   "type": "module",
   "scripts": {
     "dev": "vite",
