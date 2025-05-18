@@ -34,14 +34,14 @@
 .stopWatch-count {
 	width: 70%;
 	height: 25%;
-	background-color: #fff2e6;
+	background-color: #f7e4d4;
 	margin: 0 auto;
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	gap: 5px;
 	font-size: 2.8em;
-	border-radius: 10px;
+	border-radius: 40px;
 	user-select: none;
 }
 
