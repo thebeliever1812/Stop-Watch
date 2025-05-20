@@ -2,6 +2,10 @@
 
 A simple and interactive stopwatch built using **React**. It allows users to start, stop and reset the timer
 
+## 🌐 Live Demo
+
+[Stop Watch - View App](https://thebeliever1812.github.io/Stop-Watch)
+
 ## 🚀 Features
 
 - Start / Stop functionality
