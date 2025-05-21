@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd stop-watch
+   cd Stop-Watch
    ```
 3. **Install dependencies:**
 
