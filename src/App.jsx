@@ -26,6 +26,7 @@ function App() {
 		} else {
 			if (audioRef.current) {
 				audioRef.current.pause(); // pause the sound
+				audioRef.current.currentTime = 0;
 			}
 		}
 
